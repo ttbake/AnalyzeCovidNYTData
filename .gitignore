@@ -1,0 +1,8 @@
+
+*.iml
+*.xml
+venv/bin/activate
+*.csh
+*.fish
+/venv/
+.DS_Store
